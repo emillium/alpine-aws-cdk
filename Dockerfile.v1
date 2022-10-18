@@ -1,6 +1,6 @@
 FROM node:lts-alpine
 
-LABEL maintainer="robertd"
+LABEL maintainer="tonesa"
 
 ENV AWSCDK_VERSION=1.175.0
 ENV GLIBC_VER=2.34-r0
